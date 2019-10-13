@@ -1,8 +1,8 @@
 module.exports = {
     themeConfig: {
-      sidebar: [
-        '/page-a',
-        ['/page-b', 'Explicit link text']
-      ]
+      base: '/momconcept/',
+      title: 'blog-mes',
+      description: 'mom blog',
+      sidebar:'auto'
     }
   }
