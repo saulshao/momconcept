@@ -1,8 +1,8 @@
 module.exports = {
+    base: '/momconcept/',
+    title: 'blog-mes',
+    description: 'mom blog',
     themeConfig: {
-      base: '/momconcept/',
-      title: 'blog-mes',
-      description: 'mom blog',
       sidebar:'auto'
     }
   }
